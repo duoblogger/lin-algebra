@@ -1,3 +1,3 @@
 <script>
-  window.location.replace("{{site.baseurl}}/test/");
+  window.location.replace("test/");
 </script>
