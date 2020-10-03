@@ -1,3 +1,8 @@
+$main-color:  rgba(0, 177, 82, 0.596);
+
 .header{
-  background: rgba(0, 177, 82, 0.596);
+  background:$main-color;
+}
+a{
+  color: $main-color;
 }
