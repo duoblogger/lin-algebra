@@ -1,3 +1,7 @@
+<script>
+  window.location.replace('/test/');
+</script>
+
 # All Posts
 
 <!-- ```
