@@ -10,9 +10,8 @@ Linear Algebra আমার দেখা সবথেকে মজার আর 
 
 ## What is Linear Algebra? 
 
-```tip
-"There is hardly Any theory which is more elementary than Linear Algebra. In spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices."
-    - Jean Dieudonne
-```
+
+> "There is hardly Any theory which is more elementary than Linear Algebra. In spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices." - Jean Dieudonne
+
 
 লিনিয়ার এলজেব্রার নাম দেখেই আশা করি অনেকে বুঝতে পারছো এর সাথে লাইনের সম্পর্ক আছে। মূলত, 
