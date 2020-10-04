@@ -53,4 +53,4 @@ $$\begin{aligned}
 &=  \begin{bmatrix}X_1+X_2\\Y_1+Y_2\end{bmatrix} 
 \end{aligned}$$
 
-অসাধারন, তাই না? :heart_eyes:
+অসাধারন, তাই না? :wink:
