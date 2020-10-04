@@ -44,4 +44,13 @@ $$\begin{aligned}
 
 \end{aligned}$$
 
-অর্থাৎ, আমরা দেখতে পাচ্ছি, $$\overrightarrow{X_3} = \overrightarrow{X_1} + \overrightarrow{X_2}$$ এবং $$\overrightarrow{Y_3} = \overrightarrow{Y_1} + \overrightarrow{Y_2}$$
+অর্থাৎ, আমরা দেখতে পাচ্ছি, $$\overrightarrow{X_3} = \overrightarrow{X_1} + \overrightarrow{X_2}$$ এবং $$\overrightarrow{Y_3} = \overrightarrow{Y_1} + \overrightarrow{Y_2}$$ তার মানে আমরা আরও একটা জিনিস কিন্তু বলতে পারছি, নিচের ইকুয়েশনটা দেখো। 
+
+$$\begin{aligned} 
+
+\overrightarrow{C} &= \overrightarrow{A} + \overrightarrow{B} \\
+&=  \begin{bmatrix}X_1\\Y_1\end{bmatrix}  +  \begin{bmatrix}X_2\\Y_2\end{bmatrix}  \\
+&=  \begin{bmatrix}X_1+X_2\\Y_1+Y_2\end{bmatrix} 
+\end{aligned}$$
+
+অসাধারন, তাই না? :heart_eyes:
