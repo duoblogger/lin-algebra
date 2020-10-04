@@ -54,3 +54,24 @@ sort: 2
 
 অর্থাৎ এখানে আমরা দেখতে পাচ্ছি, $$\overrightarrow{A} = \overrightarrow{X_1} + \overrightarrow{Y_1}$$ এবং $$\overrightarrow{B} = \overrightarrow{X_2} + \overrightarrow{Y_2}$$। একই ভাবে বলতে পারবো $$\overrightarrow{C} = \overrightarrow{X_3} + \overrightarrow{Y_3}$$। এখন, এটা থেকে ইন্টারেস্টিং কিছু জিনিস বের করবো আমরা। আমি প্রথমে বলেছিলাম, $$\overrightarrow{C}$$ পাওয়ার জন্য আমাদের প্রথমে $$\overrightarrow{A}$$ এর দিকে $$\left\lvert \overrightarrow{A} \right\rvert$$ পরিমান যেতে হবে, তারপর সেখান থেকে $$\overrightarrow{B}$$ এর দিকে $$\left\lvert \overrightarrow{B} \right\rvert$$ পরিমান যেতে হবে। এখন আমরা $$\overrightarrow{A}, \overrightarrow{B}$$ গুলোকে ভেঙে লিখেছি। $$\overrightarrow{A}$$ এর দিকে $$\left\lvert \overrightarrow{A} \right\rvert$$ পরিমান যাওয়ার মানে কিন্তু মূলত প্রথমে $$\overrightarrow{X_1}$$ তারপর $$\overrightarrow{Y_1}$$ যাওয়া। আর $$\overrightarrow{B}$$ যাওয়ার মানে আসলে $$\overrightarrow{X_2}$$ গিয়ে তারপর $$\overrightarrow{Y_2}$$ যাওয়া। আবার একটা ছবি দেখো নিচে। 
 
+<center>
+  <img src="{{site.baseurl}}/assets/images/vector_addition_3.PNG" alt = "vector addition">
+</center>
+
+মূলত আমরা প্রথমে $$\overrightarrow{A}$$ তারপর $$\overrightarrow{B}$$ যাওয়া যে কথা, প্রথমে $$\overrightarrow{X_1}$$ গিয়ে তারপর $$\overrightarrow{Y_1}$$, তারপর $$\overrightarrow{X_2}$$, তারপর $$\overrightarrow{Y_2}$$ যাওয়াও একই কথা। বা সাজিয়ে বললে আমরা প্রথমে $$\overrightarrow{X_1}$$ , তারপর $$\overrightarrow{X_2}$$, তারপর $$\overrightarrow{Y_1}$$, তারপর $$\overrightarrow{Y_2}$$ যাওয়াও সেইম কথা। না বুঝলে ছবি দেখো নিচে। 
+
+<center>
+  <img src="{{site.baseurl}}/assets/images/linear_vector_addition.PNG" alt = "vector addition">
+</center>
+
+এখন একটা সুন্দর ক্যাচ দেখো। আমরা আগে ধরে নিয়েছিলাম $$\overrightarrow{C} = \overrightarrow{X_3} + \overrightarrow{Y_3}$$। এখন নিচে দেখো। 
+
+$$\begin{aligned} 
+
+\overrightarrow{C} &= \overrightarrow{A} + \overrightarrow{B} \\
+&= \overrightarrow{X_1} + \overrightarrow{Y_1} + \overrightarrow{X_2} + \overrightarrow{Y_2} \\
+&= \overrightarrow{X_1} + \overrightarrow{X_2} + \overrightarrow{Y_1} + \overrightarrow{Y_2} 
+
+\end{aligned}$$
+
+অর্থাৎ, আমরা দেখতে পাচ্ছি, $$\overrightarrow{X_3} = \overrightarrow{X_1} + \overrightarrow{X_2}$$ এবং $$\overrightarrow{Y_3} = \overrightarrow{Y_1} + \overrightarrow{Y_2}$$
