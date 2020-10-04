@@ -45,3 +45,9 @@ sort: 2
 <center>
   <img src="{{site.baseurl}}/assets/images/vector_addition.PNG" alt = "vector addition">
 </center>
+
+এটি ফিল না করতে পারলে আবারও দেখো। আমরা চাইলে $$\vec{A}$$ এর হেডে $$\vec{B}$$ এর টেইল লাগাতে পারবো, যেহেতু ভেক্টরের মান আর দিক ঠিক রেখে যেখানে খুশি সেখানে নাড়াচাড়া করা যায়। এখন একটা মজার জিনিস চিন্তা করো, উপরের ছবিতে আমরা যে $$\vec{A}$$ আর $$\vec{B}$$ নিচ্ছি, এরাও কিন্তু নিজেরা দুইটি করে ভেক্টরের যোগফল। নিচের ছবি দেখো, ক্লিয়ার হবে।
+
+<center>
+  <img src="{{site.baseurl}}/assets/images/vector_addition_2.PNG" alt = "vector addition">
+</center>
