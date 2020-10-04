@@ -48,9 +48,10 @@ $$\begin{aligned}
 
 $$\begin{aligned} 
 
-\overrightarrow{C} &= \overrightarrow{A} + \overrightarrow{B} \\
-&=  \begin{bmatrix}X_1\\Y_1\end{bmatrix}  +  \begin{bmatrix}X_2\\Y_2\end{bmatrix}  \\
-&=  \begin{bmatrix}X_1+X_2\\Y_1+Y_2\end{bmatrix} 
+\overrightarrow{C} &= \overrightarrow{A} + \overrightarrow{B} \\ \\
+&=  \begin{bmatrix}X_1\\Y_1\end{bmatrix}  +  \begin{bmatrix}X_2\\Y_2\end{bmatrix}  \\ \\
+&=  \begin{bmatrix}X_1+X_2\\Y_1+Y_2\end{bmatrix} \\ \\
+&=  \begin{bmatrix}X_3\\Y_3\end{bmatrix} 
 \end{aligned}$$
 
 অসাধারন, তাই না? :wink:
