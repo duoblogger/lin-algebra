@@ -33,14 +33,22 @@ sort: 4
 </center>
 
 আশা করি ভেক্টরকে নিগেটিভ নাম্বার দিয়ে স্কেল করলে কি হবে সেটা বুঝতে পারছো। এখন একটু ভালোভাবে বলি। 
-$$\begin{aligned}
+$$
+
+\begin{aligned}
 
 \overrightarrow{V} &= \overrightarrow{X} + \overrightarrow{Y}\\ \\
-- \overrightarrow{V} &= - \overrightarrow{X} - \overrightarrow{Y}\\ \\
-&= - \begin{bmatrix}X\\0\end{bmatrix} - \begin{bmatrix}0\\Y\end{bmatrix}\\ \\
-&= \begin{bmatrix}-X\\0\end{bmatrix} + \begin{bmatrix}0\\-Y\end{bmatrix}\\ \\
-&= \begin{bmatrix}-X\\-Y\end{bmatrix}
 
-\end{aligned}$$
+-\overrightarrow{V} &= - \overrightarrow{X} - \overrightarrow{Y}\\ \\
+
+&= - \begin{bmatrix} X \\ 0 \end{bmatrix} - \begin{bmatrix} 0 \\ Y \end{bmatrix}\\ \\
+
+&= \begin{bmatrix} -X \\ 0 \end{bmatrix} + \begin{bmatrix} 0 \\ -Y \end{bmatrix}\\ \\
+
+&= \begin{bmatrix} -X \\ -Y \end{bmatrix}
+
+\end{aligned}
+
+$$
 
 এগুলো খুব সিম্পল জিনিস, কিন্তু খুব মনযোগ দিয়ে এগুল‌ো খেয়াল করলে আশা করি পরবর্তীতে অনেক সুবিধা পাবে। এখন ভেক্টরের বিয়োগ নিয়ে দুইলাইন লিখবো। আশা করি কার‌োর বুঝতে অসুবিধা হবেনা। $$\overrightarrow{A} - \overrightarrow{B}$$ এর মান হচ্ছে, প্রথমে $$\overrightarrow{B}$$ কে -1 দিয়ে স্কেল করবো, তারপর সেটাকে $$\overrightarrow{A}$$ এর সাথে যোগ করবো। অর্থাৎ ভেক্টরের বিয়োগ আসলে ভেক্টর স্কেলিং আর ভেক্টর যোগ ছাড়া আর কিছু না। সবাইকে ধন্যবাদ। পরবর্তী আর্টিকেলে আমরা ভেক্টরের স্প্যান বলতে কি বোঝায় সেটি বোঝার চেষ্টা করবো। :flushed:
